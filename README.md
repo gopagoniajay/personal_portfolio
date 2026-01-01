@@ -58,7 +58,7 @@ npm run build
 
 ---
 
-## 📁 Project Structure
+##
 
 
 
