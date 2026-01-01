@@ -40,7 +40,7 @@ A visually engaging landing section that introduces the developer with a concise
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/personal_portfolio.git
+git clone https://github.com/gopagoniajay/E-portfolio
 
 # Navigate to project directory
 cd personal_portfolio
