@@ -22,19 +22,6 @@ A visually engaging landing section that introduces the developer with a concise
 
 ---
 
-## 🖼️ Screenshots
-
-### Skills & Services  
-*(Add screenshots in `/public` or `/screenshots` folder)*
-
-### Projects Showcase  
-*(Project cards displaying live demos and GitHub links)*
-
-### Contact Section  
-*(Simple and accessible contact interface)*
-
----
-
 ## 🛠️ Tech Stack
 
 | **Category** | **Technologies** |
